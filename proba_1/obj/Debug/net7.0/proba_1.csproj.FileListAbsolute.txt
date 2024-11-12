@@ -1,0 +1,14 @@
+C:\Users\Konstantinopol\RiderProjects\proba_1\proba_1\bin\Debug\net7.0\proba_1.exe
+C:\Users\Konstantinopol\RiderProjects\proba_1\proba_1\bin\Debug\net7.0\proba_1.deps.json
+C:\Users\Konstantinopol\RiderProjects\proba_1\proba_1\bin\Debug\net7.0\proba_1.runtimeconfig.json
+C:\Users\Konstantinopol\RiderProjects\proba_1\proba_1\bin\Debug\net7.0\proba_1.dll
+C:\Users\Konstantinopol\RiderProjects\proba_1\proba_1\bin\Debug\net7.0\proba_1.pdb
+C:\Users\Konstantinopol\RiderProjects\proba_1\proba_1\obj\Debug\net7.0\proba_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konstantinopol\RiderProjects\proba_1\proba_1\obj\Debug\net7.0\proba_1.AssemblyInfoInputs.cache
+C:\Users\Konstantinopol\RiderProjects\proba_1\proba_1\obj\Debug\net7.0\proba_1.AssemblyInfo.cs
+C:\Users\Konstantinopol\RiderProjects\proba_1\proba_1\obj\Debug\net7.0\proba_1.csproj.CoreCompileInputs.cache
+C:\Users\Konstantinopol\RiderProjects\proba_1\proba_1\obj\Debug\net7.0\proba_1.dll
+C:\Users\Konstantinopol\RiderProjects\proba_1\proba_1\obj\Debug\net7.0\refint\proba_1.dll
+C:\Users\Konstantinopol\RiderProjects\proba_1\proba_1\obj\Debug\net7.0\proba_1.pdb
+C:\Users\Konstantinopol\RiderProjects\proba_1\proba_1\obj\Debug\net7.0\proba_1.genruntimeconfig.cache
+C:\Users\Konstantinopol\RiderProjects\proba_1\proba_1\obj\Debug\net7.0\ref\proba_1.dll
